@@ -1,0 +1,8 @@
+C:\Users\joanj\source\repos\MaestroDetalle\MaestroDetalle\bin\Debug\MaestroDetalle.exe.config
+C:\Users\joanj\source\repos\MaestroDetalle\MaestroDetalle\bin\Debug\MaestroDetalle.exe
+C:\Users\joanj\source\repos\MaestroDetalle\MaestroDetalle\bin\Debug\MaestroDetalle.pdb
+C:\Users\joanj\source\repos\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.csproj.AssemblyReference.cache
+C:\Users\joanj\source\repos\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.csproj.SuggestedBindingRedirects.cache
+C:\Users\joanj\source\repos\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.csproj.CoreCompileInputs.cache
+C:\Users\joanj\source\repos\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.exe
+C:\Users\joanj\source\repos\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.pdb
